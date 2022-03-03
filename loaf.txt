@@ -1,9 +1,0 @@
-Loaf
-6
-6
-      
-  XX  
- X  X 
-  X X 
-   X  
-      
